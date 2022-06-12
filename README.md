@@ -1,0 +1,1 @@
+# bitcoin_simplified_version
